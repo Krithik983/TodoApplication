@@ -1,5 +1,5 @@
-import './App.css'
-import TodoCard from './components/todoCard'
+
+import TodoCard from './components/TodoCard'
 
 function App() {
 
